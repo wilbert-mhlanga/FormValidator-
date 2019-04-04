@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="midnightblue">#0000cd</color>
+    <color name="blue">#0000ff</color>
+    <color name="skyblue">#76c9f1</color>
+    <color name="lightblue">#3eb0f7</color>
+    <color name="Ultramarine">#120A8F</color>
+
+    <color name="Green">#008000</color>
+    <color name="myGreen">#00FF00</color>
+    <color name="myGreenWithAlpha">#FF00FF00</color>
+
+
+    <color name="blueviolet">#8a2be2</color>
+    <color name="purple">#a020f0</color>
+
+
+    <color name="navigationBarColor">#000000</color>
+
+    <color name="violetred">#d02090</color>
+    <color name="red">#f00</color>
+
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="button_selectorcolor">#9E9E9E</color>
+
+    <color name="textcolorHeader">#069ECF</color>
+    <color name="textColorSecondary">#A5A5A5</color>
+
+    <color name="background_color">#009688</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="white_greyish">#EEEEEE</color>
+
+    <!--switch color-->
+
+    <color name="thumb_active">#069ECF</color>
+    <color name="track_active">#66069ECF</color>
+
+    <color name="thumb_inactive">#A5A5A5</color>
+    <color name="track_inactive">#66A5A5A5</color>
+</resources>

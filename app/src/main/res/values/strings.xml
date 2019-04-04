@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VhukaCodingChallengeMe</string>
+    <string name="terms_conditions">By clicking This button you agree on Terms and Conditions.</string>
+
+
+    <string name="invalid_name">Please enter a valid Name</string>
+    <string name="invalid_email">Please enter a valid email</string>
+    <string name="invalid_confirm_email">Email does not match</string>
+    <string name="invalid_phonenumber">Please enter a valid Phone Number</string>
+    <string name="invalid_age">Age must be above 18.</string>
+
+
+</resources>
